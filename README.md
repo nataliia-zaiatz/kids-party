@@ -9,4 +9,4 @@ Deployment: [Perfect Kids](https://natalia64646.github.io/partie-kids/)
 ### Core Stack
 - **HTML**: For markup and structuring the content.
 - **CSS**: For adding styles and enhancing design flexibility.
-- **JavaScropt**: .
+- **JavaScript**: .
